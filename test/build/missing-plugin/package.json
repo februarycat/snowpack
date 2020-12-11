@@ -3,7 +3,8 @@
   "version": "1.0.1",
   "name": "@snowpack/test-error-file-ext",
   "scripts": {
-    "testinstall": "snowpack install"
+    "testinstall": "snowpack install",
+    "testbuild": "snowpack build"
   },
   "snowpack": {
     "install": [
